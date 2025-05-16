@@ -5,7 +5,7 @@ public class Constants
     /// <summary>
     /// Copy and paste your BoldSign API key from your BoldSign dashboard
     /// </summary>
-    public const string BOLDSIGN_API_KEY = "Mzk5Yjc1NmYtMWU2ZC00MDM3LTg5NzctNzQwZjk2YjgwMTky";
+    public const string BOLDSIGN_API_KEY = "Enter your API key here";
 
     /// <summary>
     /// Copy and paste your BoldSign API URL
