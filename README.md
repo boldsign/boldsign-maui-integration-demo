@@ -25,7 +25,7 @@ To follow along, you will need:
 
 ● Generate API Key https://app.boldsign.com/api-management/api-key/ and set the API key in Constants.cs file 
 
-![image](https://github.com/user-attachments/assets/040caf1f-be58-4efd-bc91-47c99b5a0b30)
+![image](https://github.com/user-attachments/assets/b1f7eb52-fd60-44e3-a202-87c80fc4b384)
 
 Run the sample
 
