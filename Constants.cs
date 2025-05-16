@@ -20,7 +20,7 @@ public class Constants
     /// <summary>
     /// Copy and paste your aPDF API token
     /// </summary>
-    public const string aPDF_TOKEN = "De6qsPssCumDAtKxjV038up5CYs9F2ojwCkyKM032fac5743";
+    public const string aPDF_TOKEN = "Enter your aPDF API token here";
 
     /// <summary>
     /// Copy and paste your aPDF API endpoint for creating a PDF
